@@ -2,11 +2,4 @@
 
 Not really.
 
-A list though...
-
-- Items
-  - A
-  - B
-  - C
-  - D
-- Very cool!
+A link to the blog though: [Git blog thing](https://neilajr.github.io/skills-github-pages/)
