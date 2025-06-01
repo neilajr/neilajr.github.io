@@ -1,5 +1,3 @@
-# A whole bunch of content
+# Binary Pipes
 
-Not really.
-
-A link to the blog though: [Git blog thing](https://neilajr.github.io/skills-github-pages/)
+These are not water pipes. They are binary pipes.
